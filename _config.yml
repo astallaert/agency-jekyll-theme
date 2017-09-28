@@ -24,6 +24,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/adam-stallaert-7073048a/
+    - title: envelope
+      url: mailto:adam@wseng.ca
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
