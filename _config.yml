@@ -10,6 +10,7 @@ description: "The best Engineering this side of Byron"
 # Team names, titles and social links
 people:
 - name: J Dubs
+  email: jamie@whista.com
   pic: 1
   position: Partner
   social:
@@ -17,6 +18,7 @@ people:
       url: #
 
 - name: Stallie
+  email: a@b.com
   pic: 2
   position: Partner
   social:
