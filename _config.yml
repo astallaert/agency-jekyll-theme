@@ -2,15 +2,14 @@ url:
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Whista Engineering
-email: your-email@domain.com
-description: "The best Engineering this side of Byron"
+title: Whitty Stallaert Engineering
+email: info@wseng.ca
+description: Mechanical, Electrical and Plumbing Engineering Services
 
 
 # Team names, titles and social links
 people:
-- name: J Dubs
-  email: jamie@whista.com
+- name: Jamie Whitty
   pic: 1
   position: Partner
   social:
@@ -19,8 +18,7 @@ people:
     - title: envelope
       url: mailto:jamie@wseng.ca
 
-- name: Stallie
-  email: a@b.com
+- name: Adam Stallaert
   pic: 2
   position: Partner
   social:
