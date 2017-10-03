@@ -10,7 +10,7 @@ description: Mechanical, Electrical and Plumbing Engineering Services
 # Team names, titles and social links
 people:
 - name: Jamie Whitty, P.Eng., LEED AP
-  pic: 1
+  pic: jamie
   position: Partner
   social:
     - title: linkedin
@@ -19,7 +19,7 @@ people:
       url: mailto:jamie@wseng.ca
 
 - name: Adam Stallaert, P.Eng.
-  pic: 2
+  pic: adam
   position: Partner
   social:
     - title: linkedin
